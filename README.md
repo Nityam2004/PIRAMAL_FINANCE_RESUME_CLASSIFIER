@@ -32,6 +32,8 @@ An end-to-end machine learning pipeline to classify resumes from unstructured `.
 | Evaluation         | sklearn.metrics, seaborn, matplotlib         |
 
 ---
+👨‍💻 Author
+Built by Nityam for Piramal Finance Hackathon 2024
+📫 Contact: [nityamrajput4@gmail.com]
 
-## 📁 Folder Structure
 
